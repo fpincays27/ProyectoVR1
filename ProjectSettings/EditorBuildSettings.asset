@@ -18,4 +18,7 @@ EditorBuildSettings:
     path: Assets/MiniDemoGame/Scenes/Lose.unity
     guid: e5f5d1f1a8139794dbcfb0546f3619b5
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6574cab198af1c14690a46d418650be8, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 042ff8cdf2cb5174a9c8d18f6bcf45e8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6aa2f800c78070b479d57036d28ad91d, type: 2}
